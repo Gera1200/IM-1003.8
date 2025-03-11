@@ -299,7 +299,7 @@ footer {
     background: #333;
     color: #fff;
     text-align: center;
-    padding: 4px; /* Reducimos el padding para hacerlo más delgado */
+    padding: 0px; /* Reducimos el padding para hacerlo más delgado */
     position: fixed;
     width: 100%;
     bottom: 0;
